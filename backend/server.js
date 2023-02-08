@@ -17,7 +17,7 @@ const uri = process.env.DB_URI;
 
 mongoose.connect(uri, (err) => {
   if (err) throw err;
-  console.log("connected...");
+  console.log(uri);
 });
 
 app.use(cors());
