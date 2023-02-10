@@ -1,13 +1,8 @@
 # Food Delivery
 
-<div align="center">
-  <img width="200px" src="https://cdn-icons-png.flaticon.com/512/4039/4039232.png"/>
-</div>
-<br>
-
 > Food Delivery app made using MERN stack (UNDER DEVLOPEMENT) <br>
 > APP uses morden React and NodeJS features like Modules ,Skeletons , React Portals ,Redux thunk<br>
-> Followed MVC architecture and microservices for serever side
+> Followed MVC architecture.
 
 ## ⚙️ Detailed Functionality
 
@@ -25,5 +20,8 @@
 - React.JS ,Redux ,NodeJS ,ExpressJs,MongoDB
 - VS code,Heruko
 - React Icons,REST APIS ,JWT ,GoogleAPIs,Yup
+
+#Link - Hosted in AWS
+http://13.235.114.254:4000/
 
 
