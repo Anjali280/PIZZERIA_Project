@@ -18,7 +18,6 @@
 ## 🚀 Tech and Tools Used
 
 - React.JS ,Redux ,NodeJS ,ExpressJs,MongoDB
-- VS code,Heruko
 - React Icons,REST APIS ,JWT ,GoogleAPIs,Yup
 
 #Link - Hosted in AWS
