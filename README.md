@@ -21,6 +21,6 @@
 - React Icons,REST APIS ,JWT ,GoogleAPIs,Yup
 
 #Link - Hosted in AWS
-http://13.235.114.254:4000/
+http://54.211.233.205:4000/
 
 
